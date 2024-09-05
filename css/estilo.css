@@ -1,0 +1,227 @@
+.antena{
+    background-color: grey;
+    width: 6px;
+    height: 80px;
+    position: relative;
+    left: 497px ;
+}
+.bantena{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 475px;
+    border-radius: 90px;
+}
+
+.caja1{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 400px;
+}
+.or1{
+    background-color: yellow;
+    width: 40px;
+    height: 60px;
+    position: absolute;
+    left: -30px;
+    top: 50px;
+    border: 1px solid black;
+    border-radius: 1000px;
+}
+.or2{
+    background-color: yellow;
+    width: 40px;
+    height: 60px;
+    position: absolute;
+    right: -30px;
+    top: 50px;
+    border: 1px solid black;
+    border-radius: 1000px;
+}
+.caja1-1{
+    background-color: purple;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 50px;
+    left: 25px;
+}
+.caja1-01{
+    background-color: yellow;
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 115px;
+    left: 80px;
+    border-radius: 30px;
+}
+.caja1-2{
+    background-color: purple;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 50px;
+    right: 25px;
+}
+.caja1-2-1{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.caja1-3{
+    background-color: orange;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+    top: 150px;
+    left: 25px;
+}
+.caja1-3-1{
+    background-color: purple;
+    width: 100px;
+    height: 10px;
+    position: absolute;
+    top: 10px;
+    left: 25px;
+}
+.caja2{
+    background-color: orangered;
+    width: 50px;
+    height: 40px;
+    position: relative;
+    left: 475px;
+}
+.caja3-1{
+    background-color: greenyellow;
+    width: 120px;
+    height: 60px;
+    position: absolute;
+    top: 30px;
+    left: 40px;
+}
+.caja3-2{
+    background-color: greenyellow;
+    width: 150px;
+    height: 60px;
+    position: absolute;
+    top: 110px;
+    left: 25px;
+}
+.caja3{
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 400px;
+}
+.brazo1{
+    background-color: black;
+    height: 20px;
+    width: 180px;
+    position: absolute;
+    right: -155px;
+    transform: rotate(145deg);
+}
+.dedo1{
+    background-color: black;
+    height: 10px;
+    width: 60px;
+    position: absolute;
+    right: 155px;
+    top: 20px;
+    transform: rotate(145deg);
+}
+.nombre{
+    background-color: aqua;
+    width: 500px;
+
+}
+.dedo2{
+    background-color: black;
+    height: 10px;
+    width: 60px;
+    position: absolute;
+    right: 155px;
+    top: 0px;
+    transform: rotate(195deg);
+}
+.dedo3{
+    background-color: black;
+    height: 10px;
+    width: 60px;
+    position: absolute;
+    right: 305px;
+    top: -50px;
+    transform: rotate(5deg);
+}
+
+.dedo4{
+    background-color: black;
+    height: 10px;
+    width: 60px;
+    position: absolute;
+    right: 300px;
+    top: -70px;
+    transform: rotate(205deg);
+}
+.brazo2{
+    background-color: black;
+    height: 20px;
+    width: 180px;
+    position: absolute;
+    left: -140px;
+    transform: rotate(45deg);
+}
+
+.caja4{
+    background-color: orangered;
+    width: 150px;
+    height: 20px;
+    position: relative;
+    left: 425px;
+}
+.caja5{
+    background-color: orangered;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 350px;
+}
+.caja5-1{
+    background-color: greenyellow;
+    width: 50px;
+    height: 150px;
+    position: absolute;
+    top: 25px;
+    left: 230px;
+}
+.caja5-2{
+    background-color: greenyellow;
+    width: 50px;
+    height: 150px;
+    position: absolute;
+    top: 25px;
+    left: 160px;
+}
+.caja5-3{
+    background-color: greenyellow;
+    width: 50px;
+    height: 150px;
+    position: absolute;
+    top: 25px;
+    left: 90px;
+}
+.caja5-4{
+    background-color: greenyellow;
+    width: 50px;
+    height: 150px;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+}
